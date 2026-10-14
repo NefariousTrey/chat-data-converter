@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""chatconv: convert chat transcripts between plain text and JSONL.
+"""Distill (chatconv.py): convert chat transcripts between plain text and JSONL.
 
 Text format: lines starting with "User:" or "Assistant:" (case-insensitive).
 Lines without a prefix continue the previous message.

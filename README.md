@@ -1,4 +1,6 @@
-# chatconv
+# Distill (free)
+
+`chatconv.py` is the Distill program file; the commands below work as before.
 
 Convert chat transcripts between plain text and JSONL (the `{"messages":[...]}` format used for chat datasets). One Python 3 file, standard library only, no installs, runs offline.
 

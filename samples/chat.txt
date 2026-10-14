@@ -1,0 +1,8 @@
+User: Hi, can you help me?
+Assistant: Sure. What do you need?
+User: A list
+of two lines.
+Assistant: Done.
+---
+User: Second chat.
+Assistant: Got it.
